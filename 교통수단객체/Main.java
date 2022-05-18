@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Main {
+public class Main{
 
     public static class Student{ //학생 객체 선언
         String studentName; //학생이름
